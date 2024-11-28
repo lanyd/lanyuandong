@@ -1,2 +1,3 @@
 # lanyuandong
-My personal repository.
+Hi, there!
+I'm interested in deeplearnig and AI assisted programming.
